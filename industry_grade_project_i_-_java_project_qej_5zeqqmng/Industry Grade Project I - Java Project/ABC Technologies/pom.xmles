@@ -64,6 +64,5 @@ x			<artifactId>jacoco-maven-plugin</artifactId>
         </plugin>
     </plugins>
 </build>
-
 </project>
 
